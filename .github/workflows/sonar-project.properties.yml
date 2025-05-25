@@ -1,0 +1,22 @@
+# Identification du projet sur SonarCloud
+sonar.projectKey=Musync-Groupe1_Musync-RelationshipManagement
+sonar.organization=musync-groupe1
+
+# Métadonnées
+sonar.projectName=Musync Relationship Management
+sonar.projectVersion=1.0
+
+# Dossiers de code source
+sonar.sources=app
+
+# Encodage
+sonar.sourceEncoding=UTF-8
+
+# Langage utilisé
+sonar.language=py
+
+# Exclure les tests (facultatif)
+sonar.exclusions=**/tests/**
+
+# Pour activer l’analyse Python
+sonar.python.version=3.10
