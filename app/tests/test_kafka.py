@@ -1,6 +1,5 @@
 import pytest
-from aiokafka import AIOKafkaProducer, AIOKafkaConsumer
-from kafka.kafka_consumer import consume_messages
+
 
 # @pytest.mark.asyncio
 # async def test_kafka_consumer():
